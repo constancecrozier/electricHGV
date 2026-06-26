@@ -1,0 +1,25 @@
+Origin,Destination,Distance,Average Speed
+Atlanta,Charlotte,245,60.88333333
+Baltimore,Philadelphia,106,60
+Charlotte,Raleigh,168,60
+Columbus,Savannah,248,60
+Columbus,Atlanta,108,60
+DC,Baltimore,38,60
+Jacksonville,Savannah,139,60
+Jacksonville,Orlando,141,60
+Jacksonville,Tampa,224,60
+Jacksonville,Columbus,290,60
+Miami,PalmBeach,72,60
+NewYork,Boston,215,60
+PalmBeach,Tampa,207,60
+PalmBeach,Orlando,171,60
+PalmBeach,Jacksonville,285,60
+Philadelphia,NewYork,94,60
+Raleigh,Richmond,154,60
+Richmond,DC,108,60
+Savannah,Charlotte,252,61.76333333
+Savannah,Atlanta,248,61.65666667
+Tallahassee,Columbus,169,60
+Tallahassee,Jacksonville,164,60
+Tallahassee,Mobile,243,60
+Tampa,Tallahassee,275,60

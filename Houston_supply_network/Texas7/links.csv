@@ -1,0 +1,12 @@
+﻿Origin,Destination,Distance,Average Speed
+Houston,Dallas,239,63.8
+Houston,SanAntonio,195,61.4
+SanAntonio,Austin,80,51.63333333
+Austin,Dallas,200,63.36666667
+Dallas,FortWorth,32,48.73333333
+SanAntonio,CorpusChristi,159,66.13333333
+SanAntonio,Laredo,156,63.08333333
+FortWorth,Austin,190,61.1
+Laredo,CorpusChristi,142,53.73333333
+Houston,Austin,164,57.9
+Houston,CorpusChristi,228,61.8

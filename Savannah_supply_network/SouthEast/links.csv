@@ -1,0 +1,42 @@
+Origin,Destination,Distance
+Savannah,Charlotte,252
+Savannah,Atlanta,248
+Atlanta,Charlotte,245
+Atlanta,Chattanooga,118
+Atlanta,Birmingham,162
+Birmingham,Chattanooga,148
+Birmingham,Nashville,191
+Nashville,Chattanooga,134
+Chattanooga,Knoxville,117
+Nashville,Knoxville,180
+Knoxville,Charlotte,231
+Charlotte,Raleigh,168
+New York,Boston,215
+Philadelphia,New York,94
+Baltimore,Philadelphia,106
+Washington DC,Baltimore,38
+Richmond,Washington DC,108
+Raleigh,Richmond,154
+Palm Beach,Tampa,207
+Miami,Palm Beach,72
+Palm Beach,Orlando,171
+Palm Beach,Jacksonville,285
+Jacksonville,Savannah,139
+Jacksonville,Orlando,141
+Jacksonville,Tampa,224
+Jacksonville,Columbus,290
+Tampa,Tallahassee,275
+Tallahassee,Columbus,169
+Columbus,Savannah,248
+Columbus,Atlanta,108
+Tallahassee,Montgomery,212
+Tallahassee,Jacksonville,164
+Tallahassee,Mobile,243
+Mobile,New Orleans,145
+Mobile,Jackson,190
+New Orleans,Jackson,186
+Jackson,Shreveport,217
+Birmingham,Huntsville,101
+Huntsville,Nashville,111
+Nashville,Memphis,209
+Memphis,Little Rock,137

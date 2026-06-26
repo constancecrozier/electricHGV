@@ -1,0 +1,12 @@
+Origin,Destination,Distance
+Savannah,Charlotte,252
+Savannah,Atlanta,248
+Atlanta,Charlotte,245
+Atlanta,Chattanooga,118
+Atlanta,Birmingham,162
+Birmingham,Chattanooga,148
+Birmingham,Nashville,191
+Nashville,Chattanooga,134
+Chattanooga,Knoxville,117
+Nashville,Knoxville,180
+Knoxville,Charlotte,231

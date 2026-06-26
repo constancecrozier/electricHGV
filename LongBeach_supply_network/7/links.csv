@@ -1,0 +1,19 @@
+Origin,Destination,Distance,Average Speed
+Fresno,LasVegas,404,66.16666667
+Fresno,LosAngeles,219,62.12333333
+Fresno,SanDiego,340,61.69333333
+Fresno,SanFransisco,187,59.65666667
+LasVegas,Phoenix,290,64.29666667
+LongBeach,Fresno,242,57.05333333
+LongBeach,LasVegas,288,62.17666667
+LongBeach,LosAngeles,27,35.34
+LongBeach,Phoenix,378,62.34
+LongBeach,SanDiego,107,62.53
+LongBeach,SanFransisco,405,59.71
+LosAngeles,SanFransisco,381,62.71666667
+LosAngeles,SanDiego,122,50.67666667
+LosAngeles,LasVegas,270,63
+LosAngeles,Phoenix,372,64.01666667
+LosAngeles,Fresno,219,62.17666667
+SanDiego,LasVegas,332,64.39333333
+SanDiego,Phoenix,365,66.6

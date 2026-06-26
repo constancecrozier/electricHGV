@@ -1,0 +1,16 @@
+Origin,Destination,Distance,Average Speed
+Houston,Jackson,442,60
+Houston,SanAntonio,195,60
+Houston,Dallas,239,60
+Houston,Shreveport,241,60
+Houston,CorpusChristi,228,60
+Houston,NewOrleans,348,60
+Jackson,Dallas,403,60
+Jackson,Shreveport,217,60
+Jackson,NewOrleans,186,60
+SanAntonio,Dallas,274,60
+SanAntonio,Shreveport,399,60
+SanAntonio,CorpusChristi,159,60
+Dallas,Shreveport,188,60
+Dallas,CorpusChristi,426,60
+Shreveport,NewOrleans,328,60

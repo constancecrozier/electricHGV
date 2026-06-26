@@ -1,0 +1,12 @@
+Origin,Destination,Distance,Average Speed
+Savannah,Charlotte,252,61.76333333
+Savannah,Atlanta,248,61.65666667
+Atlanta,Charlotte,245,60.88333333
+Atlanta,Chattanooga,118,60.9
+Atlanta,Birmingham,162,63.38333333
+Birmingham,Chattanooga,148,64.15
+Birmingham,Nashville,191,66.74333333
+Nashville,Chattanooga,134,59.68
+Chattanooga,Knoxville,117,63.51
+Nashville,Knoxville,180,63.63333333
+Knoxville,Charlotte,231,58.6
